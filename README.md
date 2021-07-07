@@ -8,7 +8,7 @@ In this app, all data is persisted using CoreData. After the first load of the a
 
 I used four third-party libraries:
 
-- AlamoFire was used for HTTP network calls from the Marvel API.
+- Alamofire was used for HTTP network calls from the Marvel API.
 
 - Lottie was used to display an animation while waiting for the Superheroes to load on the Directory Screen.
 
