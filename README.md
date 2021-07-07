@@ -8,8 +8,11 @@ In this app, all data is persisted using CoreData. After the first load of the a
 I used four third-party libraries:
 
 AlamoFire was used for HTTP network calls from the Marvel API.
+
 Lottie was used to display an animation while waiting for the Superheroes to load on the Directory Screen.
+
 CryptoSwift was used to create the md5 digest of the timestamp parameter, private key and public key to use the Marvel API.
+
 Kingfisher was used to load and cache images from a remote URL.
 
 I included a few examples of unit tests and UI tests using Apple's XCTest framework.
