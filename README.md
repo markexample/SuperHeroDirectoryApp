@@ -3,7 +3,7 @@
 
 Welcome to my SuperHero Directory iOS App, where I read in all of the SuperHeroes, their biographies, and events they are featured in from Marvel's API.
 
-In this app, all data is persisted using CoreData. After the first load of the app, all the SuperHeroes, and their biographies are saved to your device. If you click on an individual SuperHero on the Directory screen, the events will be read in from the Marvel API and persisted.
+In this app, all data is persisted using CoreData. After the first load of the app, all the SuperHeroes and their biographies are saved to your device. If you click on an individual SuperHero on the Directory screen, the events will be read in from the Marvel API and persisted.
 
 I used four third-party libraries:
 
