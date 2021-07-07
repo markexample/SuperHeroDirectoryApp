@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MarvelDetailViewController.tableView(_:cellForRowAt:):MarvelDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelListTableViewController.tableView(_:cellForRowAt:):MarvelListTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "character.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in MarvelListViewModel.fetchCharactersFromRemote():MarvelListViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MarvelDetailViewController.tableView(_:viewForHeaderInSection:):MarvelDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.dequeueReusableHeaderFooterView(withIdentifier: &quot;marvelHeader&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in APIClientProtocol.fetchInfo&lt;&#x3c4;_0_0&gt;(_:decode:complete:):GenericApiClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.error">
+            </PersistentString>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+            <PersistentString
+               value = "T.self">
+            </PersistentString>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+            <PersistentString
+               value = "response.debugDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelListTableViewController.viewDidAppear(_:):MarvelListTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventRepository.create(eventModel:):EventRepository.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventModel.character.id">
+            </PersistentString>
+            <PersistentString
+               value = "character.id">
+            </PersistentString>
+            <PersistentString
+               value = "event.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelListViewController.setupAnimation():MarvelListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NetworkMonitor.shared.isReachable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataRepository.fetchEventsFromRemote(charId:complete:):DataRepository.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GradientView.setupGradient():GradientView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "layer.sublayers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelUITests.testSearchBarCanSearch():MarvelUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchBar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelListViewController.tableView(_:didSelectRowAt:):MarvelListViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataRepository.initFetch(complete:):DataRepository.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventRepository.create(eventModel:for:):EventRepository.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event.characters!.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelListTableViewController.viewDidLoad():MarvelListTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didFinishLaunchingWithOptions:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window">
+            </PersistentString>
+            <PersistentString
+               value = "rootVC.viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in MarvelListTableViewController.viewDidLoad():MarvelListTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self is MarvelListTableViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self?.tableView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarvelListViewModel.createCellViewModels(result:):MarvelListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result.data.results.map { Character(name: $0.name, imageUrl: $0.thumbnail.path) }">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in MarvelDetailViewModel.fetchEvents():MarvelDetailViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataRepository.save(_:for:completion:):DataRepository.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

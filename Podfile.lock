@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.3)
+  - CryptoSwift (1.4.0)
+  - Kingfisher (6.3.0)
+  - lottie-ios (3.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - CryptoSwift (~> 1.4.0)
+  - Kingfisher (~> 6.0)
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - Kingfisher
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  CryptoSwift: 7cc902df1784de3b389a387756c7d710f197730c
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+
+PODFILE CHECKSUM: ca489303826e0d26a09e37133d511023cae5b931
+
+COCOAPODS: 1.10.1
