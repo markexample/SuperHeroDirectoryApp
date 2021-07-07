@@ -1,8 +1,7 @@
 # SuperHero Directory iOS App
 **iOS Swift/Storyboard Example**
 
-<img src="https://drive.google.com/uc?export=download&id=1S_XwQXA-I6QCpwWXXcWG9Q0oAy6D7c0e" width="200" />
-<img src="https://drive.google.com/uc?export=download&id=1nZetZemnMpNdX3bkjet593ILjwuCkrB9" width="200" />
+<img src="https://drive.google.com/uc?export=download&id=1S_XwQXA-I6QCpwWXXcWG9Q0oAy6D7c0e" width="200" /> <img src="https://drive.google.com/uc?export=download&id=1nZetZemnMpNdX3bkjet593ILjwuCkrB9" width="200" />
 
 Welcome to my Superhero Directory iOS App, where I read in all of the Superheroes, their biographies, and events they are featured in from Marvel's API.
 
